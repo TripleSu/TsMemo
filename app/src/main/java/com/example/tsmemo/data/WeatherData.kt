@@ -10,7 +10,7 @@ import java.net.URL
 
 
 class WeatherData {
-//test
+//test999
     companion object {
         // * xml을 파싱하기 위한 객체 생성
         private val xmlPullParserFactory by lazy { XmlPullParserFactory.newInstance() }
